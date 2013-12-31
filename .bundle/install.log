@@ -1,0 +1,12 @@
+# Logfile created on Tue Dec 31 15:37:27 +0000 2013 by logger.rb/1.2.6
+I, [2013-12-31T15:37:27.055994 #522]  INFO -- : 0:  rake (10.1.1) from /Library/Ruby/Gems/1.8/specifications/rake-10.1.1.gemspec
+I, [2013-12-31T15:37:28.237560 #522]  INFO -- : 0:  motion-tab (0.2.1) from /Library/Ruby/Gems/1.8/specifications/motion-tab-0.2.1.gemspec
+I, [2013-12-31T15:37:28.240768 #522]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/1.8/specifications/bundler-1.5.1.gemspec
+I, [2013-12-31T16:00:39.142708 #908]  INFO -- : 0:  rake (10.1.1) from /Library/Ruby/Gems/1.8/specifications/rake-10.1.1.gemspec
+I, [2013-12-31T16:00:39.235573 #908]  INFO -- : 0:  motion-tab (0.2.1) from /Library/Ruby/Gems/1.8/specifications/motion-tab-0.2.1.gemspec
+I, [2013-12-31T16:00:39.236661 #908]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/1.8/specifications/bundler-1.5.1.gemspec
+I, [2013-12-31T16:01:00.888027 #910]  INFO -- : 0:  rake (10.1.1) from /Library/Ruby/Gems/1.8/specifications/rake-10.1.1.gemspec
+I, [2013-12-31T16:01:00.888863 #910]  INFO -- : 0:  motion-tab (0.2.1) from /Library/Ruby/Gems/1.8/specifications/motion-tab-0.2.1.gemspec
+I, [2013-12-31T16:01:00.889531 #910]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/1.8/specifications/bundler-1.5.1.gemspec
+I, [2013-12-31T16:13:11.850542 #1045]  INFO -- : 0:  rake (10.1.1) from /Library/Ruby/Gems/1.8/specifications/rake-10.1.1.gemspec
+I, [2013-12-31T16:13:11.895414 #1045]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/1.8/specifications/bundler-1.5.1.gemspec
