@@ -1,6 +1,8 @@
 class AppDelegate
   def application(application, didFinishLaunchingWithOptions:launchOptions)
-  	@window = UIWindow.alloc.initWithFrame(UIScreen.mainScreen.bounds)
+    documents_path = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, true).first
+  	NanoStore.shared_store = NanoStore.store(:file, documents_path + "/nano.db")
+    @window = UIWindow.alloc.initWithFrame(UIScreen.mainScreen.bounds)
   	tab
   	@window.rootViewController = @tab
   	@window.makeKeyAndVisible
@@ -23,7 +25,7 @@ class AppDelegate
       {
         title: "Gallery",
         navigationController: true,
-        viewController: GalleryController.new
+        viewController: GalleryController.alloc.initWithCollectionViewLayout(UICollectionViewFlowLayout.new)
       },
       {
         title: "Info",
